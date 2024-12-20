@@ -2,8 +2,8 @@
 Changelog for package rmw
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+7.5.1 (2024-12-20)
+------------------
 * Fix arg name in rmw_take_response() doc (`#384 <https://github.com/ros2/rmw/issues/384>`_)
 * Contributors: Christophe Bedard
 
